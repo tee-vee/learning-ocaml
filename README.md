@@ -1,6 +1,6 @@
 # [Learning Ocaml](https://ocaml.org/learn)
 
-Some notes on my journey learning OCaml.
+An old-school C/Python guy tryna learn OCaml.
 
 
 [OCaml](https://ocaml.org/learn/description.html) is a general purpose
@@ -12,6 +12,14 @@ programming language with an emphasis on expressiveness and safety.
 - opam analagous to pip3 on steroids
 - Update opam: `opam update; opam upgrade dune`
 
+
+## C vs. OCaml
+| | C | OCaml |
+| SYNTAX | Procedural | Functional |
+| TYPES | Weak & Static Types | Strong & Static Types |
+| OOP? | WTF? | SORTA? |
+| LIBS? | YUP | YUP |
+| NOOB-FRIENDLY | HELL YEA | NOT SO MUCH |
 
 ## OCaml workflow
 (reference: https://ocaml.org/docs/your-first-program) 
