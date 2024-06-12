@@ -1,6 +1,6 @@
-# [Learning Ocaml](https://ocaml.org/learn)
+# Learning Ocaml
 
-An old-school bash/C/Python/perl guy tryna learn OCaml.
+An old-school bash/C/Python/perl guy tryna [learn OCaml](https://ocaml.org/learn)
 
 
 [OCaml](https://ocaml.org/learn/description.html) is a general purpose
