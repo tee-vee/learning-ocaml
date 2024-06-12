@@ -11,7 +11,7 @@ programming language with an emphasis on expressiveness and safety.
 - OCaml has own workflow 
 - opam analagous to pip3 on steroids
 - Update opam: `opam update; opam upgrade dune`
-
+- all the bad habits and laziness from C, bash and pyton are not allowed in OCaml
 
 ## C vs. OCaml
 
@@ -19,9 +19,14 @@ programming language with an emphasis on expressiveness and safety.
 | --- | --- | --- |
 | SYNTAX | Procedural | Functional |
 | TYPES | Weak & Static Types | Strong & Static Types |
-| OOP? | WTF? | SORTA? |
+| OOP? | WHAT? | SORTA[^1] |
 | LIBS? | YUP | YUP |
-| NOOB-FRIENDLY | HELL YEA | NOT SO MUCH |
+| NOOB-FRIENDLY? | HELL YEA | NOT SO MUCH |
+
+
+[^1]: DON'T.
+
+
 
 ## OCaml workflow
 (reference: https://ocaml.org/docs/your-first-program) 
