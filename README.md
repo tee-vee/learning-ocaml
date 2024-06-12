@@ -14,7 +14,9 @@ programming language with an emphasis on expressiveness and safety.
 
 
 ## C vs. OCaml
+
 | | C | OCaml |
+| --- | --- | --- |
 | SYNTAX | Procedural | Functional |
 | TYPES | Weak & Static Types | Strong & Static Types |
 | OOP? | WTF? | SORTA? |
