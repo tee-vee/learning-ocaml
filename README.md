@@ -48,10 +48,12 @@ programming language with an emphasis on expressiveness and safety.
 
 
 ## References
-[OCaml Programming](https://cs3110.github.io/textbook/cover.html) | [YouTube](https://www.youtube.com/playlist?list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU)
-[OCaml Tour](https://ocaml.org/docs/tour-of-ocaml)
+
+- [OCaml Programming](https://cs3110.github.io/textbook/cover.html) | [YouTube](https://www.youtube.com/playlist?list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU)
+- [OCaml Tour](https://ocaml.org/docs/tour-of-ocaml)
 
 
 ## Misc
-[Why OCaml?](https://dev.realworldocaml.org/prologue.html#why-ocaml)
-[Thoughts on OCaml](https://chesterbeard.medium.com/thoughts-on-ocaml-oop-c3ab152d3454)
+
+- [Why OCaml?](https://dev.realworldocaml.org/prologue.html#why-ocaml)
+- [Thoughts on OCaml](https://chesterbeard.medium.com/thoughts-on-ocaml-oop-c3ab152d3454)
