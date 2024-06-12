@@ -1,6 +1,6 @@
 # [Learning Ocaml](https://ocaml.org/learn)
 
-An old-school C/Python guy tryna learn OCaml.
+An old-school bash/C/Python/perl guy tryna learn OCaml.
 
 
 [OCaml](https://ocaml.org/learn/description.html) is a general purpose
@@ -8,10 +8,11 @@ programming language with an emphasis on expressiveness and safety.
 
 
 ## Notes
-- OCaml has own workflow 
-- opam analagous to pip3 on steroids
+- OCaml has own workflow. Don't fight it.
+- `opam` analagous to (`pip3` + `python3`) on steroids and does a lot more ...
 - Update opam: `opam update; opam upgrade dune`
 - all the bad habits and laziness from C, bash and pyton are not allowed in OCaml
+
 
 ## C vs. OCaml
 
@@ -22,6 +23,7 @@ programming language with an emphasis on expressiveness and safety.
 | OOP? | WHAT? | SORTA[^1] |
 | LIBS? | YUP | YUP |
 | NOOB-FRIENDLY? | HELL YEA | NOT SO MUCH |
+
 
 
 [^1]: [DON'T.](https://stackoverflow.com/a/10780681)
@@ -52,3 +54,4 @@ programming language with an emphasis on expressiveness and safety.
 
 ## Misc
 [Why OCaml?](https://dev.realworldocaml.org/prologue.html#why-ocaml)
+[Thoughts on OCaml](https://chesterbeard.medium.com/thoughts-on-ocaml-oop-c3ab152d3454)
