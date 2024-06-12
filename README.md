@@ -24,7 +24,7 @@ programming language with an emphasis on expressiveness and safety.
 | NOOB-FRIENDLY? | HELL YEA | NOT SO MUCH |
 
 
-[^1]: DON'T.
+[^1]: [DON'T.](https://stackoverflow.com/a/10780681)
 
 
 
